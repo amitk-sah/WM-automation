@@ -1,1 +1,2 @@
 # WM-automation
+hello
